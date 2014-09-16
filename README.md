@@ -1,4 +1,4 @@
-#json-molder
+#Deprecated in favour of http://github.com/herom/cherrypie.js
 [![Build Status](https://travis-ci.org/herom/json-molder.svg?branch=master)](https://travis-ci.org/herom/json-molder)
 
 **json-molder** is just another model populating model-factory which helps you to convert your incoming JSON
